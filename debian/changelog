@@ -1,3 +1,10 @@
+python-apt (1.4.0~beta3pardus1) onyedi; urgency=medium
+
+  [ Cihangir Akturk ]
+  * Add Pardus templates and fix gbp.conf
+
+ -- Cihangir Akturk <cihangir@pardus.org.tr>  Fri, 02 Jun 2017 09:53:48 +0300
+
 python-apt (1.4.0~beta3) unstable; urgency=medium
 
   * apt.auth: Fix check of fingerprint length
