@@ -1,0 +1,14 @@
+_ChangelogURI: http://changelogs.tanglu.org/changelogs/%s/%s/%s/%s_%s/changelog
+
+Suite: onyedi
+RepositoryType: deb
+BaseURI: http://depo.pardus.org.tr/pardus/
+MatchURI: depo.pardus.org.tr/pardus
+MirrorsFile: Pardus.mirrors
+_Description: Pardus 17.0 'Onyedi'
+Component: main
+_CompDescription: Officially supported
+Component: contrib
+_CompDescription: DFSG-compatible Software with Non-Free Dependencies
+Component: non-free
+_CompDescription: Non-DFSG-compatible Software
