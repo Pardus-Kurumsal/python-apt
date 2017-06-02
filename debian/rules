@@ -11,6 +11,7 @@ export DEB_CFLAGS_MAINT_APPEND=-Wno-write-strings \
 export PATH := $(CURDIR)/utils:$(PATH)
 export pyversions := $(CURDIR)/utils/pyversions
 export DEB_BUILD_MAINT_OPTIONS=hardening=+all,-pie
+export DEB_BUILD_OPTIONS=nocheck
 
 %:
 	dh $@ --with python2,python3,sphinxdoc
