@@ -1,11 +1,11 @@
-_ChangelogURI: http://changelogs.tanglu.org/changelogs/%s/%s/%s/%s_%s/changelog
+_ChangelogURI: http://changelogs.pardus.org.tr/changelogs/%s/%s/%s/%s_%s/changelog
 
-Suite: onyedi
+Suite: Onyedi
 RepositoryType: deb
 BaseURI: http://depo.pardus.org.tr/pardus/
 MatchURI: depo.pardus.org.tr/pardus
 MirrorsFile: Pardus.mirrors
-_Description: Pardus 17.0 'Onyedi'
+_Description: Pardus 17.1 'Onyedi'
 Component: main
 _CompDescription: Officially supported
 Component: contrib
