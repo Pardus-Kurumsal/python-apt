@@ -1,3 +1,9 @@
+python-apt (1.4.0~beta3pardus3) onyedi; urgency=medium
+
+  * Update info and official mirrors
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Wed, 08 Nov 2017 12:53:13 +0300
+
 python-apt (1.4.0~beta3pardus2) onyedi; urgency=medium
 
   * Update Pardus templates
