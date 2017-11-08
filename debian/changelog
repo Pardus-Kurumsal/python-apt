@@ -1,3 +1,9 @@
+python-apt (1.4.0~beta3pardus4) onyedi; urgency=medium
+
+  * Update info file for security repository
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Wed, 08 Nov 2017 13:28:40 +0300
+
 python-apt (1.4.0~beta3pardus3) onyedi; urgency=medium
 
   * Update info and official mirrors
