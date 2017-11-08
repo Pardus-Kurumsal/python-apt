@@ -1,11 +1,24 @@
 _ChangelogURI: http://changelogs.pardus.org.tr/changelogs/%s/%s/%s/%s_%s/changelog
 
-Suite: Onyedi
+Suite: onyedi
 RepositoryType: deb
 BaseURI: http://depo.pardus.org.tr/pardus/
 MatchURI: depo.pardus.org.tr/pardus
 MirrorsFile: Pardus.mirrors
-_Description: Pardus 17.1 'Onyedi'
+_Description: Pardus 17 'Onyedi'
+Component: main
+_CompDescription: Officially supported
+Component: contrib
+_CompDescription: DFSG-compatible Software with Non-Free Dependencies
+Component: non-free
+_CompDescription: Non-DFSG-compatible Software
+
+Suite: ondokuz
+RepositoryType: deb
+BaseURI: http://depo.pardus.org.tr/pardus/
+MatchURI: depo.pardus.org.tr/pardus
+MirrorsFile: Pardus.mirrors
+_Description: Pardus 19 'Ondokuz'
 Component: main
 _CompDescription: Officially supported
 Component: contrib
