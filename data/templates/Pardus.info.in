@@ -5,7 +5,7 @@ RepositoryType: deb
 BaseURI: http://depo.pardus.org.tr/pardus/
 MatchURI: depo.pardus.org.tr/pardus
 MirrorsFile: Pardus.mirrors
-_Description: Pardus 17 'Onyedi'
+_Description: Pardus 17 'onyedi'
 Component: main
 _CompDescription: Officially supported
 Component: contrib
@@ -13,15 +13,9 @@ _CompDescription: DFSG-compatible Software with Non-Free Dependencies
 Component: non-free
 _CompDescription: Non-DFSG-compatible Software
 
-Suite: ondokuz
+Suite: onyedi/updates
 RepositoryType: deb
-BaseURI: http://depo.pardus.org.tr/pardus/
-MatchURI: depo.pardus.org.tr/pardus
-MirrorsFile: Pardus.mirrors
-_Description: Pardus 19 'Ondokuz'
-Component: main
-_CompDescription: Officially supported
-Component: contrib
-_CompDescription: DFSG-compatible Software with Non-Free Dependencies
-Component: non-free
-_CompDescription: Non-DFSG-compatible Software
+BaseURI: http://depo.pardus.org.tr/guvenlik/
+MatchURI: depo.pardus.org.tr/guvenlik
+ParentSuite: onyedi
+_Description: Pardus 17 Security updates
